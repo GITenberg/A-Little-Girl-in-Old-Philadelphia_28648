@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9482
 description: Little Primrose was the child of Friends, or Quakers. The story relates
   her strict upbringing and her expierences among the worldly.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28648#A-Little-Girl-in-Old-Philadelphia
 gutenberg_issued: '2009-04-30'
 gutenberg_type: Text
 identifiers:
